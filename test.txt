@@ -45,3 +45,8 @@ git push origin develop (develop (remote creation))
 
 
 
+git checkout <branch_name> (branch switch)
+
+
+
+new master code
