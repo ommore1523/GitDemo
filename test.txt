@@ -50,3 +50,15 @@ git checkout <branch_name> (branch switch)
 
 
 new master code
+
+
+1. develop branch code push to develope branch
+2. checkout to master branch 
+3. git pull origin master 
+4. git checkout develop
+5. git merge master (master branch is merged to develop branch) (if conflict then resolve and push code to develop)
+6. Test your code in develop branch with latest code
+7. git checkout master 
+8. git merge develop 
+9. git push origin master
+
