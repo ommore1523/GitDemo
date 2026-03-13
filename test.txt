@@ -16,6 +16,15 @@ B.
 1. git branch -M master   (set a main branch as master)
 2. git status (check file status/area)
 
+# Common Commands:
+
+
+git add
+git commit -m "msg"
+git push origin <branch>
 
 
 untracked: the file which has not pushed in git 
+
+
+git pull origin master ( sync the code from remote repositoy to local repo)
