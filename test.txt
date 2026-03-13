@@ -1,0 +1,18 @@
+# attach github repo with local folder
+
+git init :  creates .git folder
+git remote add origin https://github.com/ommore1523/GitDemo.git
+
+
+# File upload 
+A.
+1. username: profile section (ommore1523)
+2. password: profile-->settings--> develope-->personal_access_token --> classic--> generat_new_token
+
+B.
+1. git branch -M master   (set a main branch as master)
+2. git status (check file status/area)
+
+
+
+untracked: the file which has not pushed in git 
