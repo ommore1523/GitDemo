@@ -30,3 +30,7 @@ untracked: the file which has not pushed in git
 git pull origin master ( sync the code from remote repositoy to local repo)
 
 git checkout <branch_name> (branch switch)
+
+
+
+new master code
