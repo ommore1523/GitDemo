@@ -39,3 +39,9 @@ git branch -a (all branch which available)
 git checkout -b <branch_name> (new branch create)
 
 git push origin develop (develop (remote creation))
+
+
+
+
+
+
