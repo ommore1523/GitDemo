@@ -28,3 +28,14 @@ untracked: the file which has not pushed in git
 
 
 git pull origin master ( sync the code from remote repositoy to local repo)
+
+
+
+
+Branches Commands:
+
+git branch  (tells you about in which branch you are (green color) )
+git branch -a (all branch which available)
+git checkout -b <branch_name> (new branch create)
+
+git push origin develop (develop (remote creation))
