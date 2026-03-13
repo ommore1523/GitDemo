@@ -1,3 +1,6 @@
+new developer  code
+
+
 # attach github repo with local folder
 
 git init :  creates .git folder
